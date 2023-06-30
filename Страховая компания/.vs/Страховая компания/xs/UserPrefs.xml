@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.xaml.cs">
+    <Files>
+      <File FileName="App.xaml.cs" Line="1" Column="1" />
+      <File FileName="AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ExamenContext.cs" Line="1" Column="1" />
+      <File FileName="MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="MainWindow.xaml.cs" Line="3" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Страховая компания" expanded="True">
+            <Node name="Страховая компания" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DataBase" expanded="True" />
+              <Node name="Forms" expanded="True" />
+              <Node name="Functions" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="MainWindow.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
